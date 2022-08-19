@@ -1,0 +1,201 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+
+@media (max-width: 575.98px) {
+
+header {
+    padding: 15px 0;
+}
+
+.nav ul li a {
+    margin-left: 170px;
+    text-align: right;
+}
+
+.navbar-toggler{
+    margin-left: 220px;
+    margin-top: -55px;
+}
+
+.slider-img img {
+    margin-bottom: -70px;
+}
+
+.slider-text-mini h1 {
+    font-size: 25px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.slider-text-mini p{
+    font-size: 15px;
+}
+
+.slider-text-mini #p{
+    font-size: 15px;
+}
+
+.comment {
+    padding: 10px 0;
+}
+
+.gallery {
+    padding-top: 20px;
+}
+
+#gallery-item {
+    margin-bottom: 50px;
+}
+
+.contact-us {
+    padding: 20px 0;
+}
+
+.form h1 {
+    color: #333333;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-control {
+    padding: 5px 65px;
+    text-align: center;
+}
+
+#gallery-itm {
+    margin-bottom: 50px;
+}
+
+.bttn {
+    padding-bottom: 50px;
+    padding-top: 0;
+}
+
+footer{
+    padding: 20px 0;
+    text-align: center;
+}
+
+.f-icon a i{
+    margin-top: 10px;
+}
+
+p{
+    margin-bottom: 0;
+}
+    
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+header {
+    padding: 20px 0;
+}
+
+.nav ul li a {
+    margin-left: 410px;
+    text-align: right;
+}
+
+.navbar-toggler {
+    margin-left: 451px;
+    margin-top: -60px;
+}
+
+.slider-img{
+    margin-bottom: 50px;
+}
+
+.comment {
+    padding: 15px 0;
+}
+
+.gallery {
+    padding-top: 30px;
+}
+
+.slider-text-mini h1{
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.slider-text-mini p{
+    font-size: 15px;
+}
+
+.slider-text-mini #p{
+    font-size: 15px;
+}
+
+#gallery-item {
+    margin-bottom: 50px;
+}
+
+.contact-us {
+    padding: 40px 0;
+}
+
+.form h1 {
+    margin-bottom: 40px;
+}
+
+.bttn {
+    padding: 60px 0;
+}
+
+p{
+    margin-bottom: 0;
+}
+
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+header {
+    padding: 30px 0;
+}
+
+.nav ul li a {
+    margin-left: 570px;
+    text-align: right;
+}
+
+.navbar-toggler{
+    margin-left: 482px;
+}
+
+.gallery {
+    padding-top: 50px;
+}
+
+.contact-us {
+    padding: 60px 0;
+}
+
+.bttn {
+    padding: 70px 0;
+}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+ /*Extra Extra large devices (large desktops, 1200px and up)*/
+
+@media (min-width: 1400px) {
+
+}
